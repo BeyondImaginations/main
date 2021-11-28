@@ -4,7 +4,7 @@
 Copy `App.js` and `GANapi.js` into `src` folder of REACT project, then open REACT server
 
 ## 2. Setup FLASK server
-Install flask and requirements for [styleGAN3][styleGAN3]. Then, run
+Install flask / flask-cors and requirements for [styleGAN3][styleGAN3]. Then, run
 ```
 python app.py
 ```
