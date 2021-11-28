@@ -10,6 +10,6 @@ python app.py
 ```
 
 ## 3. Test
-Type gen(int) at REACT page and press button. The image will show up after some time...
+Type gene(int) at REACT page and press button. The image will show up after some time...
 
 [styleGAN3]: https://github.com/NVlabs/stylegan3
